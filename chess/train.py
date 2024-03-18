@@ -17,7 +17,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 from threadpoolctl import threadpool_limits
 _thread_limit = threadpool_limits(limits=8)
 
-
+ 
 logger = Logger()
 logger.init("train.log", 'training_log.txt')
 print = logger.info
