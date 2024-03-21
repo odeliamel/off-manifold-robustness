@@ -5,7 +5,7 @@
 
 
 
-Python implementation of the experimental part of the paper. Follow the decision boundary of the binary classifier for two different low-dimensional datasets with 3 training methods.
+Python implementation of the experimental part of the paper. Follow the decision boundary of the binary classifier for two different low-dimensional datasets with three training methods.
 
 ## A one-dimensional diagonal line in a two-dimensional input space
 <picture>
